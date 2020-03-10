@@ -7,5 +7,6 @@ public class Main {
        h.foo();
        BasicMath bm = new BasicMath();
        System.out.println(bm.sum(8,16));
+        System.out.println(bm.sum(10,15));
     }
 }
